@@ -1,0 +1,7 @@
+.statsContainer{
+	width: 50vw;
+	min-height: 30vh;
+	border: 2px white solid;
+	border-radius: 20px;
+	padding: 20px;
+}

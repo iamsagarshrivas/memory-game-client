@@ -1,0 +1,16 @@
+.timerContainer { 
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	border-bottom: 1px solid white;
+	background-color: #285671;
+	z-index: 21;
+}
+
+.timerContainer div{
+	padding: 1rem;
+}

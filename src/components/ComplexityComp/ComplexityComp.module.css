@@ -1,0 +1,39 @@
+.mainContainer{	
+	width: 50vw;
+	min-height: 30vh;
+	border: 2px white solid;
+	border-radius: 20px;
+	padding: 20px;
+}
+
+.buttonContainer{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.buttonContainer button{
+	cursor: pointer;
+	width: 100px;
+	padding: 1rem;
+	background: transparent;
+	border: 2px solid white;
+	color: white;
+	border-radius: 10px;
+	font-weight: 700;
+}
+
+
+.buttonContainer button:focus{
+	outline: none;
+}
+
+@media (max-width: 650px){
+	.buttonContainer {
+		flex-direction: column;
+		align-items: center;
+	}
+	.buttonContainer button{
+		margin-bottom: 1rem;
+	}
+}
