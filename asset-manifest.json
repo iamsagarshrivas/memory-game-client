@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/memory-game-server/static/css/main.779ec4ae.chunk.css",
-    "main.js": "/memory-game-server/static/js/main.ac8ca0a1.chunk.js",
-    "main.js.map": "/memory-game-server/static/js/main.ac8ca0a1.chunk.js.map",
-    "runtime-main.js": "/memory-game-server/static/js/runtime-main.6b3407b7.js",
-    "runtime-main.js.map": "/memory-game-server/static/js/runtime-main.6b3407b7.js.map",
-    "static/js/2.474bc3b2.chunk.js": "/memory-game-server/static/js/2.474bc3b2.chunk.js",
-    "static/js/2.474bc3b2.chunk.js.map": "/memory-game-server/static/js/2.474bc3b2.chunk.js.map",
-    "index.html": "/memory-game-server/index.html",
-    "static/css/main.779ec4ae.chunk.css.map": "/memory-game-server/static/css/main.779ec4ae.chunk.css.map",
-    "static/js/2.474bc3b2.chunk.js.LICENSE.txt": "/memory-game-server/static/js/2.474bc3b2.chunk.js.LICENSE.txt",
-    "static/media/club.2bc17834.svg": "/memory-game-server/static/media/club.2bc17834.svg",
-    "static/media/diamond.53998217.svg": "/memory-game-server/static/media/diamond.53998217.svg",
-    "static/media/heart.c9b12bb5.svg": "/memory-game-server/static/media/heart.c9b12bb5.svg",
-    "static/media/spade.381a4f13.svg": "/memory-game-server/static/media/spade.381a4f13.svg"
+    "main.css": "/memory-game-client/static/css/main.779ec4ae.chunk.css",
+    "main.js": "/memory-game-client/static/js/main.ac8ca0a1.chunk.js",
+    "main.js.map": "/memory-game-client/static/js/main.ac8ca0a1.chunk.js.map",
+    "runtime-main.js": "/memory-game-client/static/js/runtime-main.9eefe899.js",
+    "runtime-main.js.map": "/memory-game-client/static/js/runtime-main.9eefe899.js.map",
+    "static/js/2.474bc3b2.chunk.js": "/memory-game-client/static/js/2.474bc3b2.chunk.js",
+    "static/js/2.474bc3b2.chunk.js.map": "/memory-game-client/static/js/2.474bc3b2.chunk.js.map",
+    "index.html": "/memory-game-client/index.html",
+    "static/css/main.779ec4ae.chunk.css.map": "/memory-game-client/static/css/main.779ec4ae.chunk.css.map",
+    "static/js/2.474bc3b2.chunk.js.LICENSE.txt": "/memory-game-client/static/js/2.474bc3b2.chunk.js.LICENSE.txt",
+    "static/media/club.2bc17834.svg": "/memory-game-client/static/media/club.2bc17834.svg",
+    "static/media/diamond.53998217.svg": "/memory-game-client/static/media/diamond.53998217.svg",
+    "static/media/heart.c9b12bb5.svg": "/memory-game-client/static/media/heart.c9b12bb5.svg",
+    "static/media/spade.381a4f13.svg": "/memory-game-client/static/media/spade.381a4f13.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b3407b7.js",
+    "static/js/runtime-main.9eefe899.js",
     "static/js/2.474bc3b2.chunk.js",
     "static/css/main.779ec4ae.chunk.css",
     "static/js/main.ac8ca0a1.chunk.js"
